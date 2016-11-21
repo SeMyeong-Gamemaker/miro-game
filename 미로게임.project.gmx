@@ -6,30 +6,50 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprite_box</sprite>
-    <sprite>sprites\sprite9</sprite>
-    <sprite>sprites\sprite_chipm</sprite>
+    <sprite>sprites\sp_box</sprite>
+    <sprite>sprites\sp_cat</sprite>
+    <sprite>sprites\sp_moues</sprite>
     <sprite>sprites\sprite_apple</sprite>
-    <sprite>sprites\sprite3</sprite>
-    <sprite>sprites\boxbox</sprite>
-    <sprite>sprites\sprite7</sprite>
+    <sprite>sprites\sp_cat2</sprite>
+    <sprite>sprites\sp_bax2</sprite>
+    <sprite>sprites\sp_Exit2</sprite>
+    <sprite>sprites\sp_start</sprite>
+    <sprite>sprites\sp_exit</sprite>
+    <sprite>sprites\sp_siw</sprite>
+    <sprite>sprites\spr_portal_out</sprite>
+    <sprite>sprites\spr_portal_in</sprite>
+    <sprite>sprites\sp_x</sprite>
+    <sprite>sprites\sprite13</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\back_grass</background>
+    <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\object_chipm</object>
-    <object>objects\object_apple</object>
+    <object>objects\ob_moues</object>
+    <object>objects\ob_ch</object>
     <object>objects\object_box</object>
-    <object>objects\object3</object>
-    <object>objects\object5</object>
+    <object>objects\ob_cat</object>
+    <object>objects\ob_bax2</object>
     <object>objects\object7</object>
     <object>objects\object6</object>
+    <object>objects\paly</object>
+    <object>objects\next</object>
+    <object>objects\ob_start</object>
+    <object>objects\ob_exit</object>
+    <object>objects\object11</object>
+    <object>objects\object13</object>
+    <object>objects\obj_portal_in</object>
+    <object>objects\obj_portal_out</object>
+    <object>objects\object15</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room_st</room>
+    <room>rooms\room_sta</room>
     <room>rooms\room_map1</room>
-    <room>rooms\room3</room>
+    <room>rooms\room_map2</room>
+    <room>rooms\room_map3</room>
     <room>rooms\End</room>
   </rooms>
   <help>
